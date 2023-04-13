@@ -37,7 +37,7 @@ The APIs were taken from the offcial NASA openAPI website.
 
 ### DEMO.
 
-Project [link](https://vis-nu.vercel.app/).
+Project [link](https://near-earth-objects.vercel.app/).
 
 
  
